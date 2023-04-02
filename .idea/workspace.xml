@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="951c6cee-ae20-4178-9923-4802db5c19f7" name="Changes" comment="add 5.5">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="951c6cee-ae20-4178-9923-4802db5c19f7" name="Changes" comment="add 7">
       <change beforePath="$PROJECT_DIR$/../tuiter-react-web-app" beforeDir="false" afterPath="$PROJECT_DIR$/../tuiter-react-web-app" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,11 +77,23 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add 2.8" />
     <MESSAGE value="add 3.4" />
     <MESSAGE value="add 4.6" />
     <MESSAGE value="add 5.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 5.5" />
+    <MESSAGE value="add 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 7" />
   </component>
 </project>
